@@ -36,7 +36,3 @@ Beyond Academics: Coming to Play Store Soon.
 - **Demo**: [RealityCraft Demo](https://youtu.be/_I_7RvdMMBM)
 - **Website**: [RealityCraft Website](https://realitycraft.netlify.app)
 - **APK**: [RealityCraft APK Download](https://realitycraft.netlify.app/download)
-
----
-
-This README provides an overview of RealityCraft, detailing the project's goal, team members, tools, assets, resources, and current completeness, including where to access the demo, website, and APK download.
